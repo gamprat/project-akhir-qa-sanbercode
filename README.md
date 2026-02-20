@@ -15,4 +15,4 @@ Repositori ini berisi proyek automasi pengujian untuk website OrangeHRM Demo. Pr
 4. Jalankan Cypress dengan: `npx cypress open` atau `npx cypress run`.
 
 ## Catatan:
-Untuk folder "node_modules" sengaja saya masukkan ke .gitignore mas karena ukuran yang terlalu besar.
+Untuk folder "node_modules" sengaja saya masukkan ke .gitignore karena ukuran yang terlalu besar.
