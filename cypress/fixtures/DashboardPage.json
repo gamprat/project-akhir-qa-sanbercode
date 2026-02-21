@@ -1,0 +1,6 @@
+{
+    "validUser": "Admin",
+    "validPass": "admin123",
+    "validEmployeeName": "a",
+    "invalidEmployeeName": "----"
+}
