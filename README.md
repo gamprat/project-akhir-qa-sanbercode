@@ -7,6 +7,7 @@ Repositori ini berisi proyek automasi pengujian untuk website OrangeHRM Demo. Pr
 * **Language:** JavaScript
 * **Documentation:** Google Spreadsheets
 * **Design Pattern:** Page Object Model (POM)
+* **Version Control & Repository Host:** Git & GitHub
 
 ## Cara Menjalankan Project:
 1. Clone repository ini.
